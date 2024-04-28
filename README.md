@@ -12,7 +12,8 @@ From the command line, run:
 
 ```sh
 $ python3 -m venv p
-$ pip3 install hidapi
+$ p/bin/pip3 install -U PyObjC
+$ p/bin/pip3 install hidapi
 ```
 
 ## Configuration
